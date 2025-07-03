@@ -5,7 +5,6 @@ A comprehensive collection of study materials, cheat sheets, and review notes fr
 ## 📖 Table of Contents
 - [Computer Science Units](#computer-science-units)
 - [Mathematics Units](#mathematics-units)
-- [Document Formats](#document-formats)
 - [Design Files](#design-files)
 
 ## 💻 Computer Science Units
@@ -21,14 +20,6 @@ A comprehensive collection of study materials, cheat sheets, and review notes fr
 | Unit Code | Unit Name | Available Documents | Status |
 |-----------|-----------|-------------------|--------|
 | [**MATH1064**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Conclusion.docx) | Discrete Mathematics for Computer Science | Review notes | 📄 Available |
-
-## 📋 Document Formats
-
-This repository contains study materials in various formats:
-
-- **📄 PDF Files**: Cheat sheets and formatted notes
-- **📝 DOCX Files**: Editable review notes and conclusions
-- **🎨 Figma Designs**: Interactive design files for visual learners
 
 ## 🎨 Design Files
 

@@ -28,7 +28,7 @@ A comprehensive collection of study materials, cheatsheets, and review notes fro
 
 | Unit Code | Unit Name | Available Documents | Status |
 |-----------|-----------|-------------------|--------|
-| [**MATH1064**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Conclusion.docx) | Discrete Mathematics for Computer Science | Review notes | 📄 Available |
+| [**MATH1064**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.docx) | Discrete Mathematics for Computer Science | Review notes | 📄 Available |
 
 ## 🎨 Design Files
 

@@ -1,9 +1,10 @@
 # 📚 USYD Learning Notes
 
-A comprehensive collection of study materials, cheat sheets, and review notes from my studies at the University of Sydney.
+A comprehensive collection of study materials, cheatsheets, and review notes from my studies at the University of Sydney.
 
 ## 📖 Table of Contents
 - [Computer Science Units](#computer-science-units)
+- [Software Development Units](#software-development-units)
 - [Mathematics Units](#mathematics-units)
 - [Design Files](#design-files)
 
@@ -14,6 +15,14 @@ A comprehensive collection of study materials, cheat sheets, and review notes fr
 | [**COMP2123**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx) | Data Structures and Algorithms | Review notes, A4 cheatsheet | 📄 Available |
 | [**COMP3027**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | Algorithm Design | A4 cheatsheet | 📄 Available |
 | [**COMP3308**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf) | Introduction to Artificial Intelligence | A4 cheatsheet | 📄 Available |
+| **COMP2022** | Models of Computation | A4 cheatsheet | ✏️ In Progress |
+
+## 💻 Software Development Units
+
+| Unit Code | Unit Name | Available Documents | Status |
+|-----------|-----------|-------------------|--------|
+| **SOFT2201** | Software Construction and Design 1 | A4 cheatsheet | ✏️ In Progress |
+| **SOFT2412** | Agile Software Development Practices | A4 cheatsheet | ✏️ In Progress |
 
 ## 📐 Mathematics Units
 
@@ -33,9 +42,9 @@ Original Figma files used to create the cheat sheets are available for editing a
 ## 📝 Notes
 
 - All materials are created for personal study purposes
-- Cheat sheets are designed to fit A4 format for exam use
+- Cheatsheets are designed to fit A4 format for exam use
 - Content is based on USYD curriculum and may vary by semester
 
 ---
 
-*This repository is continuously updated with new study materials. Feel free to suggest improvements!*
+*This repository is continuously updated with new study materials. If you find it helpful, please give it a ⭐ star and watch for updates!*

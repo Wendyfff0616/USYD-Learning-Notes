@@ -10,8 +10,8 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 ## 💻 Computer Science Units
 
-| Unit Code | Unit Name | Available Documents | Status |
-|-----------|-----------|-------------------|--------|
+| Unit Code | Unit Name | Study Materials | Status |
+|-----------|-----------|-----------------|--------|
 | **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx), [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_Review_Notes.pdf) | 📄 Available |
 | **COMP2823** <br> (Rosy's version) | Data Structures and Algorithms (Advanced) | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) <br> (by Rosy, based on COMP2123) | 📄 Available |
 | **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | 📄 Available |
@@ -21,15 +21,15 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 ## 💻 Software Development Units
 
-| Unit Code | Unit Name | Available Documents | Status |
-|-----------|-----------|-------------------|--------|
+| Unit Code | Unit Name | Study Materials | Status |
+|-----------|-----------|-----------------|--------|
 | **SOFT2201** | Software Construction and Design 1 | A4 cheatsheet | ✏️ In Progress |
 | **SOFT2412** | Agile Software Development Practices | A4 cheatsheet | ✏️ In Progress |
 
 ## 📐 Mathematics Units
 
-| Unit Code | Unit Name | Available Documents | Status |
-|-----------|-----------|-------------------|--------|
+| Unit Code | Unit Name | Study Materials | Status |
+|-----------|-----------|-----------------|--------|
 | **MATH1064** | Discrete Mathematics for Computer Science | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.docx) | 📄 Available |
 
 ## 🎨 Design Files

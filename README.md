@@ -13,7 +13,7 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 | Unit Code | Unit Name | Study Materials | Status |
 |-----------|-----------|-----------------|--------|
 | **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx), [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_Review_Notes.pdf) | 📄 Available |
-| **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) <br> (based on COMP2123) | 📄 Available |
+| **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) | 📄 Available |
 | **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | 📄 Available |
 | **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) | 📄 Available |
 | **COMP2022** | Models of Computation | A4 cheatsheet | ✏️ In Progress |

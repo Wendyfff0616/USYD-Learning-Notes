@@ -12,11 +12,11 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 | Unit Code | Unit Name | Available Documents | Status |
 |-----------|-----------|-------------------|--------|
-| [**COMP2123**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx) | Data Structures and Algorithms | Review notes, A4 cheatsheet | 📄 Available |
-| [**COMP2823** (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.pdf) | Data Structures and Algorithms (Advanced) | A4 cheatsheet (by Rosy, based on COMP2123) | 📄 Available |
-| [**COMP3027**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | Algorithm Design | A4 cheatsheet | 📄 Available |
-| [**COMP3308**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf) | Introduction to Artificial Intelligence | A4 cheatsheet (by Wendy) | 📄 Available |
-| [**COMP3308** (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) | Introduction to Artificial Intelligence | A4 cheatsheet (by Rosy, variant) | 📄 Available |
+| **COMP2123** | Data Structures and Algorithms | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_Review_Notes.pdf), [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx) | 📄 Available |
+| **COMP2823** <br> (Rosy's version) | Data Structures and Algorithms (Advanced) | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) (by Rosy, based on COMP2123) | 📄 Available |
+| **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | 📄 Available |
+| **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf) | 📄 Available |
+| **COMP3308** <br> (Rosy's version) | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) (by Rosy, variant) | 📄 Available |
 | **COMP2022** | Models of Computation | A4 cheatsheet | ✏️ In Progress |
 
 ## 💻 Software Development Units
@@ -30,7 +30,7 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 | Unit Code | Unit Name | Available Documents | Status |
 |-----------|-----------|-------------------|--------|
-| [**MATH1064**](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.docx) | Discrete Mathematics for Computer Science | Review notes | 📄 Available |
+| **MATH1064** | Discrete Mathematics for Computer Science | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.docx) | 📄 Available |
 
 ## 🎨 Design Files
 

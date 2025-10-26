@@ -63,4 +63,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - 📝 Credit required when sharing online
 
 ---
-*This repository is continuously updated with new study materials. If you find it helpful, please consider giving a star ⭐ and watch for updates!*
+*This repository is continuously updated with new study materials.*
+
+*If you find it helpful, please consider giving a star ⭐ and watch for updates!*

@@ -6,10 +6,10 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 
 ## 📖 Table of Contents
-- [Computer Science Units](#computer-science-units)
-- [Software Development Units](#software-development-units)
-- [Mathematics Units](#mathematics-units)
-- [Design Files](#design-files)
+- [Computer Science Units](#-computer-science-units)
+- [Software Development Units](#-software-development-units)
+- [Mathematics Units](#-mathematics-units)
+- [Design Files](#-design-files)
 
 ## 💻 Computer Science Units
 

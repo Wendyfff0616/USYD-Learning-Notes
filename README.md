@@ -1,6 +1,6 @@
 # 📚 USYD Learning Notes
 
-A comprehensive collection of study materials, cheatsheets, and review notes from my studies at the University of Sydney.
+A comprehensive collection of cheatsheets and review notes from my studies at the University of Sydney.
 
 ## 📖 Table of Contents
 - [Computer Science Units](#computer-science-units)

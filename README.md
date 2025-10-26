@@ -2,9 +2,6 @@
 
 A comprehensive collection of cheatsheets and review notes from my studies at the University of Sydney.
 
-*Continuously updated with new study materials. If you find it helpful, please give it a star ⭐ and watch for updates!*
-
-
 ## 📖 Table of Contents
 - [Computer Science Units](#-computer-science-units)
 - [Software Development Units](#-software-development-units)
@@ -65,3 +62,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - ✅ Free to share with proper attribution
 - ❌ No commercial use allowed
 - 📝 Credit required when sharing online
+
+---
+*This repository is continuously updated with new study materials. If you find it helpful, please consider giving a star ⭐ and watch for updates!*

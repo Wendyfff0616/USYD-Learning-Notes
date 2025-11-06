@@ -13,9 +13,9 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 | Unit Code | Unit Name | Study Materials | Status |
 |-----------|-----------|-----------------|--------|
 | **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx), [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_Review_Notes.pdf) | 📄 Available |
-| **COMP2823** <br> (Rosy's version) | Data Structures and Algorithms (Advanced) | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) <br> (by Rosy, based on COMP2123) | 📄 Available |
+| **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) | 📄 Available |
 | **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | 📄 Available |
-| **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf) (by Wendy), [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) (by Rosy) | 📄 Available |
+| **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) | 📄 Available |
 | **COMP2022** | Models of Computation | A4 cheatsheet | ✏️ In Progress |
 
 ## 💻 Software Development Units
@@ -63,4 +63,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - 📝 Credit required when sharing online
 
 ---
-*This repository is continuously updated with new study materials. If you find it helpful, please consider giving a star ⭐ and watch for updates!*
+*This repository is continuously updated with new study materials.*
+
+*If you find it helpful, please consider giving a star ⭐ and watch for updates!*

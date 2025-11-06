@@ -46,8 +46,8 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 ## 🙏 Credits & Contributors
 
-- **Wendy**: Original creator of COMP2123, COMP3027, COMP3308 v1, MATH1064, and upcoming COMP2022, SOFT2201, SOFT2412 materials
-- **Rosy** ([GitHub](https://github.sydney.edu.au/yuyu0113)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
+- **Wenyu (Wendy) Fan**: Original creator of COMP2123, COMP3027, COMP3308 v1, MATH1064, and upcoming COMP2022, SOFT2201, SOFT2412 materials
+- **Yue (Rosy) Yu** ([GitHub](https://github.sydney.edu.au/yuyu0113)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
 
 ## 📝 Notes
 

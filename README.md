@@ -12,10 +12,10 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 | Unit Code | Unit Name | Study Materials | Status |
 |-----------|-----------|-----------------|--------|
-| **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.pdf), [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_Review_Notes.pdf) | 📄 Available |
-| **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.pdf) | 📄 Available |
-| **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3027_cheatsheet.pdf) | 📄 Available |
-| **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP3308_cheatsheet_Rosy.pdf) | 📄 Available |
+| **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2123/cheatsheet.pdf), [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2123/review_notes.pdf) | 📄 Available |
+| **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2823/cheatsheet_rosy.pdf) | 📄 Available |
+| **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3027/cheatsheet.pdf) | 📄 Available |
+| **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet_rosy.pdf) | 📄 Available |
 | **COMP2022** | Models of Computation | A4 cheatsheet | ✏️ In Progress |
 
 ## 💻 Software Development Units
@@ -29,7 +29,7 @@ A comprehensive collection of cheatsheets and review notes from my studies at th
 
 | Unit Code | Unit Name | Study Materials | Status |
 |-----------|-----------|-----------------|--------|
-| **MATH1064** | Discrete Mathematics for Computer Science | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.pdf) | 📄 Available |
+| **MATH1064** | Discrete Mathematics for Computer Science | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/math/math1064/sources/review_notes.docx) | 📄 Available |
 
 ## 🎨 Design Files
 
@@ -37,12 +37,12 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 | Unit | Design File |
 |------|-------------|
-| **COMP2123** | [DSA cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2123_cheatsheet.docx) |
-| **COMP2823 (Rosy's version)** | [DSA (Adv) cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/COMP2823_cheatsheet_Rosy.docx) |
+| **COMP2123** | [DSA cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2123/sources/cheatsheet.docx) |
+| **COMP2823 (Rosy's version)** | [DSA (Adv) cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2823/sources/cheatsheet_rosy.docx) |
 | **COMP3027** | [Algorithm Design Cheatsheet](https://www.figma.com/design/ziWPugtUjPpvHC2lFNSEyd/COMP3027-cheatsheet?node-id=0-1&t=SIfh0uL7iP96fGdi-1) |
 | **COMP3308** | [AI Cheatsheet](https://www.figma.com/design/azXqzHEY7guS3RxNyQF9ZE/COMP3308-cheatsheet?node-id=0-1&t=bv8dkSqehVm5seBm-1) |
 | **COMP3308** (Rosy's version) | [AI Cheatsheet](https://www.figma.com/design/azXqzHEY7guS3RxNyQF9ZE/COMP3308-cheatsheet?node-id=7-2&t=Q11zspTsdhaW4zKZ-1) |
-| **MATH1064** | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/MATH1064_Review_Notes.docx) |
+| **MATH1064** | [Review notes](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/math/math1064/sources/review_notes.docx) |
 
 ## 🙏 Credits & Contributors
 

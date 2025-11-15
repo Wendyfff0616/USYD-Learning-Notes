@@ -1,6 +1,20 @@
 # 📚 USYD Learning Notes
-
 A comprehensive collection of cheatsheets and review notes from my studies at the University of Sydney.
+> 💡 Using these notes in your own repo?
+>
+> This project is shared under **CC BY-NC 4.0**.
+>
+> You’re very welcome to reuse or adapt the materials for personal study.
+>
+> If you do, please credit me in your README, for example:
+>
+> ```markdown
+> Some materials in <your> repository are adapted from  
+> https://github.com/Wendyfff0616/USYD-Learning-Notes
+> (CC BY-NC 4.0).
+> ```
+>
+> Thank you, and good luck with your exams! :D
 
 ## 📖 Table of Contents
 - [Computer Science Units](#-computer-science-units)

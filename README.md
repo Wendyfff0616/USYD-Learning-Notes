@@ -71,6 +71,15 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - ❌ No commercial use allowed
 - 📝 Credit required when sharing online
 
+### Disclaimer
+This repository contains personal learning notes for non-commercial educational purposes. The content is primarily based on my own understanding and organization of the course material.
+
+**Current Version:** The current version of all files in this repository (i.e., the `main` branch) is believed to not contain any copyrighted images or materials from third parties.
+
+**Repository History:** Due to an oversight, some early versions (commits) of this repository may have unintentionally included screenshots or images from course materials. These have since been proactively removed from the current version.
+
+If you are a copyright holder and find any content in the repository's *history* that infringes upon your rights, please contact me by **opening an Issue** or via email. I will take immediate action to thoroughly remove (purge) the content from the history.
+
 ---
 *This repository is continuously updated with new study materials.*
 

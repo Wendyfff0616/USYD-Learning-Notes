@@ -38,6 +38,7 @@ A comprehensive collection of cheatsheets from my studies at the University of S
 | **SOFT2201** | Software Construction and Design 1 | A4 cheatsheet | ✏️ In Progress |
 | **SOFT2412** | Agile Software Development Practices | A4 cheatsheet | ✏️ In Progress |
 
+*✏️ In Progress = Will be published after exams*
 ## 🎨 Design Files
 
 Original Figma/.docx files used to create the cheatsheets are available for editing and customization:

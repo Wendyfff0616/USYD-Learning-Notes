@@ -1,5 +1,5 @@
 # 📚 USYD Learning Notes
-A comprehensive collection of cheatsheets and review notes from my studies at the University of Sydney.
+A comprehensive collection of cheatsheets from my studies at the University of Sydney.
 > 💡 Using these notes in your own repo?
 >
 > This project is shared under **CC BY-NC 4.0**.

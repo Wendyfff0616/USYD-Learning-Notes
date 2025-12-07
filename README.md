@@ -49,6 +49,8 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 | **COMP2823 (Rosy's version)** | [DSA (Adv) cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2823/sources/cheatsheet_rosy.docx) |
 | **COMP2022, COMP3027, COMP3308, SOFT2201, SOFT2412** | [Consolidated Design Files](https://www.figma.com/community/file/1579441159839183538) |
 
+**📚 Tutorial:** Want to create your own cheatsheets? Check out this [FigmaToCheatsheet Tutorial](https://www.figma.com/community/file/1579636228052110335) to learn how to use Figma to make clear, flexible, and well-organized cheatsheets!
+
 ## 🙏 Credits & Contributors
 
 - **Wenyu (Wendy) Fan**: Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, SOFT2201, and SOFT2412 materials

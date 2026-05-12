@@ -1,4 +1,7 @@
 # 📚 USYD Learning Notes
+
+![Views](https://komarev.com/ghpvc/?username=Wendyfff0616-USYD-Learning-Notes&label=Repository%20Views&color=0e75b6&style=flat&base=2384)
+
 A comprehensive collection of cheatsheets from my studies at the University of Sydney.
 > 💡 Using these materials in your own repo?
 >
@@ -10,12 +13,11 @@ A comprehensive collection of cheatsheets from my studies at the University of S
 >
 > ```markdown
 > Some materials in <your> repository are adapted from  
-> https://github.com/Wendyfff0616/USYD-Learning-Notes
+> https://github.com/fanwy16/USYD-Learning-Notes
 > (CC BY-NC 4.0).
 > ```
-
 >
-> Thank you, and good luck with your exams! :D
+> Thank you, and good luck with your exams! 🍀
 
 ## 📖 Table of Contents
 - [Computer Science Units](#-computer-science-units)
@@ -53,14 +55,17 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 ## 🙏 Credits & Contributors
 
-- **Wenyu (Wendy) Fan**: Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, SOFT2201, and SOFT2412 materials
-- **Yue (Rosy) Yu** ([GitHub](https://github.sydney.edu.au/yuyu0113)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
+- **Wenyu (Wendy) Fan** ([LinkedIn](https://www.linkedin.com/in/wendy-fan-a831782b5/)): Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, SOFT2201, and SOFT2412 materials
+- **Yue (Rosy) Yu** ([LinkedIn](https://www.linkedin.com/in/yue-yu-904788319/)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
 
 ## 📝 Notes
 
 - All materials are created for personal study purposes
 - Cheatsheets are designed to fit A4 format for exam use
 - Content is based on USYD curriculum and may vary by semester
+
+> **A quick note on current subjects:**  
+> I can't share notes for units I'm currently taking. The cheatsheets from previous years are finalized versions made after I finished those courses, but my notes for ongoing subjects are still very much a "work in progress" and quite scattered. I want to be responsible for the quality of the content I provide, so I will only share notes for subjects I've already completed.
 
 ## ⚖️ License
 

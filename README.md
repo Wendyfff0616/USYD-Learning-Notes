@@ -1,6 +1,6 @@
 # 📚 USYD Learning Notes
 
-![Views](https://komarev.com/ghpvc/?username=Wendyfff0616-USYD-Learning-Notes&label=Repository%20Views&color=0e75b6&style=flat&base=2384)
+![Views](https://komarev.com/ghpvc/?username=Wendyfff0616-USYD-Learning-Notes&label=Repository%20Views&color=0e75b6&style=flat&base=3093)
 
 A comprehensive collection of cheatsheets from my studies at the University of Sydney.
 > 💡 Using these materials in your own repo?

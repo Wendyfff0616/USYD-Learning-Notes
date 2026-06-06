@@ -3,6 +3,11 @@
 ![Views](https://komarev.com/ghpvc/?username=Wendyfff0616-USYD-Learning-Notes&label=Repository%20Views&color=0e75b6&style=flat&base=3093)
 
 A comprehensive collection of cheatsheets from my studies at the University of Sydney.
+
+Cheatsheets are best when you make them yourself, but if you want to cross-check your work, I hope mine will be useful.
+
+These are the cheatsheets I made over the past years. I have learned so much from others' freely shared notes at USYD, so I wanted to give back.
+
 > 💡 Using these materials in your own repo?
 >
 > This project is shared under **CC BY-NC 4.0**.
@@ -30,9 +35,9 @@ A comprehensive collection of cheatsheets from my studies at the University of S
 |-----------|-----------|-----------------|--------|
 | **COMP2123** | Data Structures and Algorithms | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2123/cheatsheet.pdf) | 📄 Available |
 | **COMP2823** | Data Structures and Algorithms <br> (Advanced) | [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2823/cheatsheet_rosy.pdf) | 📄 Available |
+| **COMP2022** | Models of Computation | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2022/cheatsheet.pdf) | 📄 Available |
 | **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3027/cheatsheet.pdf) | 📄 Available |
 | **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet_rosy.pdf) | 📄 Available |
-| **COMP2022** | Models of Computation | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2022/cheatsheet.pdf) | 📄 Available |
 
 ## 💻 Software Development Units
 
@@ -76,15 +81,6 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - ✅ Free to share with proper attribution
 - ❌ No commercial use allowed
 - 📝 Credit required when sharing online
-
-### Disclaimer
-This repository contains personal learning notes for non-commercial educational purposes. The content is primarily based on my own understanding and organization of the course material.
-
-**Current Version:** The current version of all files in this repository (i.e., the `main` branch) is believed to not contain any copyrighted images or materials from third parties.
-
-**Repository History:** Due to an oversight, some early versions (commits) of this repository may have unintentionally included screenshots or images from course materials. These have since been proactively removed from the current version.
-
-If you are a copyright holder and find any content in the repository's *history* that infringes upon your rights, please contact me by **opening an Issue** or via email. I will take immediate action to thoroughly remove (purge) the content from the history.
 
 ---
 *This repository is continuously updated with new study materials.*

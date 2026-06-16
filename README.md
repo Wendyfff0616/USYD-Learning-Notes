@@ -38,6 +38,9 @@ These are the cheatsheets I made over the past years. I have learned so much fro
 | **COMP2022** | Models of Computation | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp2022/cheatsheet.pdf) | 📄 Available |
 | **COMP3027** | Algorithm Design | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3027/cheatsheet.pdf) | 📄 Available |
 | **COMP3308** | Introduction to Artificial Intelligence | [A4 cheatsheet](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet.pdf), <br> [A4 cheatsheet (Rosy's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/comp/comp3308/cheatsheet_rosy.pdf) | 📄 Available |
+| **INFO2222** | Computing 2 Usability and Security | [A4 cheatsheet (Zara's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/info/info2222/cheatsheet_zara.pdf) | 📄 Available |
+| **INFO1112** | Computing 1B OS and Network Platforms | [A4 cheatsheet (Zara's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/info/info1112/cheatsheet_zara.pdf) | 📄 Available |
+| **INFO1113** | Object-Oriented Programming | [A4 cheatsheet (Zara's version)](https://github.com/Wendyfff0616/USYD-Learning-Notes/blob/main/materials/info/info1113/cheatsheet_zara.pdf) | 📄 Available |
 
 ## 💻 Software Development Units
 
@@ -62,6 +65,7 @@ Original Figma/.docx files used to create the cheatsheets are available for edit
 
 - **Wenyu (Wendy) Fan** ([LinkedIn](https://www.linkedin.com/in/wendy-fan-a831782b5/)): Original creator of COMP2123, COMP3027, COMP3308 v1, COMP2022, SOFT2201, and SOFT2412 materials
 - **Yue (Rosy) Yu** ([LinkedIn](https://www.linkedin.com/in/yue-yu-904788319/)): Contributed COMP2823 cheatsheet (based on COMP2123)，COMP3308 variant cheatsheet (based on COMP3308 original cheatsheet)
+- **Jiajie (Zara) Cui** ([LinkedIn](www.linkedin.com/in/jiajie-cui-327131354/)): Contributed INFO2222, INFO1112, INFO1113 cheatsheets
 
 ## 📝 Notes
 
